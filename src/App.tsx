@@ -1,5 +1,5 @@
 import { Widget } from './components/Widget';
-import './global.css';
+import './styles/global.css';
 
 type ButtonProps = {
   text: string;
